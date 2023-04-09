@@ -1,2 +1,3 @@
 # myReactPlayground
-Tests, trials and experiments
+
+This is a page for Tests, Trials and Experiments
